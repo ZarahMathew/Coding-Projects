@@ -9,7 +9,7 @@
 [synonyms.py](https://github.com/ZarahMathew/Coding-Projects/blob/main/Introduction%20to%20Computer%20Programming/synonyms.py): Created a mini "word meaning" engine that automatically decides which words are similar based on the text it reads. 
 
 
-**Computer Algorithms and Data Structures**
+**Computer Algorithms and Data Structures Projects**
 
 [autocomplete.c](https://github.com/ZarahMathew/Coding-Projects/blob/main/Computer%20Algorithms%20and%20Data%20Structures/autocomplete.c): The goal is to implement an autocomplete feature. This is accomplished by loading a list of weighted search terms from a file, sorts them alphabetically, uses binary search to find the first and last term that match a given prefix, then returns all matching terms sorted by highest weight.  
 <br>
